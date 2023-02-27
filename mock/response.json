@@ -1,0 +1,471 @@
+[
+  {
+    "id": 321,
+    "date": "2023-01-02T10:51:08",
+    "date_gmt": "2023-01-02T09:51:08",
+    "guid": {
+      "rendered": "https://www.marcinlukaszek.pl/?post_type=bond_calculator&#038;p=321"
+    },
+    "modified": "2023-01-02T10:51:08",
+    "modified_gmt": "2023-01-02T09:51:08",
+    "slug": "obligacje-12-letnie-rod",
+    "status": "publish",
+    "type": "bond_calculator",
+    "link": "https://www.marcinlukaszek.pl/bond_calculator/obligacje-12-letnie-rod/",
+    "title": {
+      "rendered": "Obligacje 12-letnie ROD"
+    },
+    "template": "",
+    "acf": {
+      "symbol": "ROD",
+      "interest_desc": "7,50 w pierwszym rocznym okresie odsetkowym, w kolejnych rocznych okresach odsetkowych: marża 1,75% + inflacja, z roczną kapitalizacją odsetek.",
+      "details": {
+        "price": 100,
+        "selling_price": 2,
+        "swap_price": 99,
+        "cycles": "12",
+        "cycle_lenght": "year",
+        "Interest_first_period_rate": 7.5,
+        "interest": "inflation",
+        "margin": 1.75,
+        "link": "https://www.obligacjeskarbowe.pl/oferta-obligacji/obligacje-12-letnie-rod/rod0135/",
+        "odsetki": {
+          "interest_paid_period": "end",
+          "capitalized": true,
+          "capitalization_period": "year"
+        }
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/bond_calculator/321"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/bond_calculator"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/types/bond_calculator"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/media?parent=321"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 320,
+    "date": "2023-01-02T10:49:34",
+    "date_gmt": "2023-01-02T09:49:34",
+    "guid": {
+      "rendered": "https://www.marcinlukaszek.pl/?post_type=bond_calculator&#038;p=320"
+    },
+    "modified": "2023-01-02T10:49:34",
+    "modified_gmt": "2023-01-02T09:49:34",
+    "slug": "obligacje-6-letnie-ros",
+    "status": "publish",
+    "type": "bond_calculator",
+    "link": "https://www.marcinlukaszek.pl/bond_calculator/obligacje-6-letnie-ros/",
+    "title": {
+      "rendered": "Obligacje 6-letnie ROS"
+    },
+    "template": "",
+    "acf": {
+      "symbol": "ROS",
+      "interest_desc": "w pierwszym rocznym okresie odsetkowym: 7,20% w kolejnych rocznych okresach odsetkowych: marża 1,50% + inflacja",
+      "details": {
+        "price": 100,
+        "selling_price": 0.7,
+        "swap_price": 99,
+        "cycles": "6",
+        "cycle_lenght": "year",
+        "Interest_first_period_rate": 7.2,
+        "interest": "inflation",
+        "margin": 1.5,
+        "link": "https://www.obligacjeskarbowe.pl/oferta-obligacji/obligacje-6-letnie-ros/ros0129/",
+        "odsetki": {
+          "interest_paid_period": "end",
+          "capitalized": true,
+          "capitalization_period": "year"
+        }
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/bond_calculator/320"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/bond_calculator"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/types/bond_calculator"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/media?parent=320"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 298,
+    "date": "2022-10-08T15:03:05",
+    "date_gmt": "2022-10-08T13:03:05",
+    "guid": {
+      "rendered": "http://portfolio.local/?post_type=bond_calculator&amp;p=35"
+    },
+    "modified": "2022-10-08T15:03:05",
+    "modified_gmt": "2022-10-08T13:03:05",
+    "slug": "edo",
+    "status": "publish",
+    "type": "bond_calculator",
+    "link": "https://www.marcinlukaszek.pl/bond_calculator/edo/",
+    "title": {
+      "rendered": "Obligacje 10-letnie EDO"
+    },
+    "template": "",
+    "acf": {
+      "symbol": "EDO",
+      "interest_desc": "7,25 % w pierwszym rocznym okresie odsetkowym, w kolejnych rocznych okresach odsetkowych: marża 1,25% + inflacja, z roczną kapitalizacją odsetek.",
+      "details": {
+        "price": 100,
+        "selling_price": 2,
+        "swap_price": 99,
+        "cycles": "10",
+        "cycle_lenght": "year",
+        "Interest_first_period_rate": 7.25,
+        "interest": "inflation",
+        "margin": 1.25,
+        "link": "https://www.obligacjeskarbowe.pl/oferta-obligacji/obligacje-10-letnie-edo/edo1032/",
+        "odsetki": {
+          "interest_paid_period": "end",
+          "capitalized": true,
+          "capitalization_period": "year"
+        }
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/bond_calculator/298"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/bond_calculator"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/types/bond_calculator"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/media?parent=298"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 297,
+    "date": "2022-10-08T15:01:54",
+    "date_gmt": "2022-10-08T13:01:54",
+    "guid": {
+      "rendered": "http://portfolio.local/?post_type=bond_calculator&#038;p=34"
+    },
+    "modified": "2023-01-02T10:46:34",
+    "modified_gmt": "2023-01-02T09:46:34",
+    "slug": "coi",
+    "status": "publish",
+    "type": "bond_calculator",
+    "link": "https://www.marcinlukaszek.pl/bond_calculator/coi/",
+    "title": {
+      "rendered": "Obligacje 4-letnie COI"
+    },
+    "template": "",
+    "acf": {
+      "symbol": "COI",
+      "interest_desc": "7,00 % w pierwszym rocznym okresie odsetkowym, w kolejnych rocznych okresach odsetkowych: marża 1,00% + inflacja, z wypłatą odsetek co roku.",
+      "details": {
+        "price": 100,
+        "selling_price": 0.7,
+        "swap_price": 99,
+        "cycles": "4",
+        "cycle_lenght": "year",
+        "Interest_first_period_rate": 7,
+        "interest": "inflation",
+        "margin": 1,
+        "link": "https://www.obligacjeskarbowe.pl/oferta-obligacji/obligacje-4-letnie-coi/coi0127/",
+        "odsetki": {
+          "interest_paid_period": "period_year",
+          "capitalized": false,
+          "capitalization_period": ""
+        }
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/bond_calculator/297"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/bond_calculator"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/types/bond_calculator"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/media?parent=297"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 296,
+    "date": "2022-10-08T15:00:38",
+    "date_gmt": "2022-10-08T13:00:38",
+    "guid": {
+      "rendered": "http://portfolio.local/?post_type=bond_calculator&#038;p=33"
+    },
+    "modified": "2023-01-02T10:46:50",
+    "modified_gmt": "2023-01-02T09:46:50",
+    "slug": "tos",
+    "status": "publish",
+    "type": "bond_calculator",
+    "link": "https://www.marcinlukaszek.pl/bond_calculator/tos/",
+    "title": {
+      "rendered": "Obligacje 3-letnie TOS"
+    },
+    "template": "",
+    "acf": {
+      "symbol": "TOS",
+      "interest_desc": "6.85% stałe przez cały 3-letni okres oszczędzania",
+      "details": {
+        "price": 100,
+        "selling_price": 0.7,
+        "swap_price": 99,
+        "cycles": "3",
+        "cycle_lenght": "year",
+        "Interest_first_period_rate": 6.85,
+        "interest": "constant",
+        "margin": 0,
+        "link": "https://www.obligacjeskarbowe.pl/oferta-obligacji/obligacje-3-letnie-tos/tos0126/",
+        "odsetki": {
+          "interest_paid_period": "end",
+          "capitalized": true,
+          "capitalization_period": "year"
+        }
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/bond_calculator/296"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/bond_calculator"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/types/bond_calculator"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/media?parent=296"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "date": "2022-10-08T14:58:21",
+    "date_gmt": "2022-10-08T12:58:21",
+    "guid": {
+      "rendered": "http://portfolio.local/?post_type=bond_calculator&#038;p=32"
+    },
+    "modified": "2023-01-02T10:45:13",
+    "modified_gmt": "2023-01-02T09:45:13",
+    "slug": "dor",
+    "status": "publish",
+    "type": "bond_calculator",
+    "link": "https://www.marcinlukaszek.pl/bond_calculator/dor/",
+    "title": {
+      "rendered": "Obligacje 2-letnie DOR"
+    },
+    "template": "",
+    "acf": {
+      "symbol": "DOR",
+      "interest_desc": "6.85% w skali roku, w pierwszym miesięcznym okresie odsetkowym. W kolejnych miesięcznych okresach odsetkowych: stopa referencyjna NBP+0,10%.",
+      "details": {
+        "price": 100,
+        "selling_price": 0.7,
+        "swap_price": 99,
+        "cycles": "24",
+        "cycle_lenght": "month",
+        "Interest_first_period_rate": 6.85,
+        "interest": "nbp_reference_rate",
+        "margin": 0.1,
+        "link": "https://www.obligacjeskarbowe.pl/oferta-obligacji/obligacje-2-letnie-dor/dor0125/",
+        "odsetki": {
+          "interest_paid_period": "period_month",
+          "capitalized": false,
+          "capitalization_period": ""
+        }
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/bond_calculator/32"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/bond_calculator"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/types/bond_calculator"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/media?parent=32"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 295,
+    "date": "2022-10-08T14:35:45",
+    "date_gmt": "2022-10-08T12:35:45",
+    "guid": {
+      "rendered": "http://portfolio.local/?post_type=bond_calculator&#038;p=29"
+    },
+    "modified": "2023-01-02T10:44:21",
+    "modified_gmt": "2023-01-02T09:44:21",
+    "slug": "ror",
+    "status": "publish",
+    "type": "bond_calculator",
+    "link": "https://www.marcinlukaszek.pl/bond_calculator/ror/",
+    "title": {
+      "rendered": "Obligacje roczne ROR"
+    },
+    "template": "",
+    "acf": {
+      "symbol": "ROR",
+      "interest_desc": "6.75% w skali roku, w pierwszym miesięcznym okresie odsetkowym. W kolejnych miesięcznych okresach odsetkowych: stopa referencyjna NBP+0,00%.",
+      "details": {
+        "price": 100,
+        "selling_price": 0.5,
+        "swap_price": 99.9,
+        "cycles": "12",
+        "cycle_lenght": "month",
+        "Interest_first_period_rate": 6.75,
+        "interest": "nbp_reference_rate",
+        "margin": 0,
+        "link": "https://www.obligacjeskarbowe.pl/oferta-obligacji/obligacje-roczne-ror/ror0124/",
+        "odsetki": {
+          "interest_paid_period": "end",
+          "capitalized": false,
+          "capitalization_period": "month"
+        }
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/bond_calculator/295"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/bond_calculator"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/types/bond_calculator"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.marcinlukaszek.pl/wp-json/wp/v2/media?parent=295"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
